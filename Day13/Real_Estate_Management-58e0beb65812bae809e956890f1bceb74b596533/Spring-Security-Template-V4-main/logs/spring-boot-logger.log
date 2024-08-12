@@ -1,0 +1,21 @@
+2024-08-12 00:45:19,333 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-12 00:45:19,364 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2024-08-12 00:45:19,366 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 2 ms
+2024-08-12 00:45:19,366 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-2] Securing GET /api/favorites/2
+2024-08-12 00:45:19,370 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter [http-nio-8080-exec-2] Set SecurityContextHolder to anonymous SecurityContext
+2024-08-12 00:45:19,372 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-2] Secured GET /api/favorites/2
+2024-08-12 00:45:19,633 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-1] Securing GET /api/favorites/2
+2024-08-12 00:45:19,636 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter [http-nio-8080-exec-1] Set SecurityContextHolder to anonymous SecurityContext
+2024-08-12 00:45:19,637 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-1] Secured GET /api/favorites/2
+2024-08-12 00:45:19,638 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-3] Securing GET /api/properties/details/5
+2024-08-12 00:45:19,640 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-4] Securing GET /api/properties/details/3
+2024-08-12 00:45:19,640 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter [http-nio-8080-exec-3] Set SecurityContextHolder to anonymous SecurityContext
+2024-08-12 00:45:19,640 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter [http-nio-8080-exec-4] Set SecurityContextHolder to anonymous SecurityContext
+2024-08-12 00:45:19,640 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-3] Secured GET /api/properties/details/5
+2024-08-12 00:45:19,640 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-4] Secured GET /api/properties/details/3
+2024-08-12 00:45:19,734 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-6] Securing GET /api/properties/details/3
+2024-08-12 00:45:19,734 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-5] Securing GET /api/properties/details/5
+2024-08-12 00:45:19,734 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter [http-nio-8080-exec-5] Set SecurityContextHolder to anonymous SecurityContext
+2024-08-12 00:45:19,734 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter [http-nio-8080-exec-6] Set SecurityContextHolder to anonymous SecurityContext
+2024-08-12 00:45:19,749 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-6] Secured GET /api/properties/details/3
+2024-08-12 00:45:19,749 DEBUG o.s.s.w.FilterChainProxy [http-nio-8080-exec-5] Secured GET /api/properties/details/5
